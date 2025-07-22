@@ -170,7 +170,14 @@ const jeffrey = {
 
 <div align="center">
   
-![Snake animation](https://github.com/jeffersgaming/jeffersgaming/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/jeffersgaming/jeffersgaming/output/github-contribution-grid-snake.svg)
+
+<!-- For dark mode -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jeffersgaming/jeffersgaming/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jeffersgaming/jeffersgaming/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jeffersgaming/jeffersgaming/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
@@ -181,11 +188,8 @@ const jeffrey = {
 ### 💼 Open for Opportunities
 **Let's build something amazing together!**
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/1a797f46-efe4-41e6-9e75-5303e1bbcbfa" width="300">
+**Open for collaborations**
 
 **Show some ❤️ by starring some repositories!**
-
-<img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
-<img src="https://forthebadge.com/images/badges/powered-by-coffee.svg"/>
 
 </div>
